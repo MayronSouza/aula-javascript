@@ -1,0 +1,1 @@
+alert('Olá, meu primeiro JS')
